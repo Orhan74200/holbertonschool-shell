@@ -1,0 +1,9 @@
+#!/bin/bash
+echo "Current directory:"
+ls -la
+
+echo "\nParent directory:"
+ls -la ..
+
+echo "\n/boot directory:"
+ls -la /boot
