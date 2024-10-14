@@ -1,2 +1,4 @@
+cat > /tmp/3-new_owner << EOF
 #!/bin/bash
-sudo chown betty hello
+chown betty hello
+EOF
