@@ -1,2 +1,2 @@
-#!/bin/bashchmod
+#!/bin/bash
 chmod rwx rwx rw-
